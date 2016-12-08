@@ -1,0 +1,5 @@
+﻿  os_core.c
+d:\temp\micrium_win32_os2\micrium\software\ucos-ii\source\os_core.c(1855): warning C4018: '<': signed/unsigned mismatch
+d:\temp\micrium_win32_os2\micrium\software\ucos-ii\source\os_core.c(1885): warning C4018: '<': signed/unsigned mismatch
+  OS2.vcxproj -> D:\temp\Micrium_Win32_OS2\Micrium\Software\Evalboards\Microsoft\Windows\OS2\Visual Studio\Debug\OS2.exe
+  OS2.vcxproj -> D:\temp\Micrium_Win32_OS2\Micrium\Software\Evalboards\Microsoft\Windows\OS2\Visual Studio\Debug\OS2.pdb (Full PDB)
